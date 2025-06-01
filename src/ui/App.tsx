@@ -3,7 +3,7 @@ function App() {
 
   return (
     <div className="text">
-        Hello
+        Electro+Vite+Typescript
     </div>
   )
 }
