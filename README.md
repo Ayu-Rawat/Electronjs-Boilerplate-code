@@ -1,5 +1,7 @@
-# Electronjs Boilerplate Code
-
+<p align="center">
+  <h1>Electronjs Boilerplate Code</h1>
+  <img src="https://res.cloudinary.com/dqvwf3z2c/image/upload/v1748945964/pika-1748945570744-2x_gk8bqu.png"/>
+</p>
 A minimal yet powerful Electron boilerplate to kickstart your cross-platform desktop application development. This setup combines Electron with Webpack and TypeScript, ensuring a streamlined development experience.
 
 ## 🚀 Features
